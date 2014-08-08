@@ -1,0 +1,8 @@
+<?
+
+namespace ExampleRequiredPackage
+
+class Foo
+{
+
+}

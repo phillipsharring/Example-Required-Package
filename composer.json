@@ -1,0 +1,18 @@
+{
+    "name": "philsown/Example-Required-Package",
+    "description": "An example required package for use with the Satis Server talk.",
+    "license": "MIT",
+    "homepage": "https://github.com/philsown/Example-Required-Package",
+    "authors": [
+        {
+            "name": "Phillip Harrington",
+            "email": "philsown@gmail.com",
+            "homepage": "http://www.phillipharrington.com/"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "ExampleRequiredPackage\\": "src/"
+        }
+    }
+}
